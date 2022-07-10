@@ -16,6 +16,14 @@
 ##### 개발 기간
 2021.6 ~ 2021.8
 
+##### 개발 인원
+4명
+
+##### 나의 역할
+* 로그인/회원가입 화면 및 기능 개발
+* COMMUNITY 게시판 화면 및 CRUD 기능 개발
+* 마이페이지 화면 및 기능 개발
+
 ##### 사용한 기술
 ###### 개발 
 * Python 3.9.2
@@ -24,4 +32,6 @@
 * GitHub
 
 
+<img width="352" alt="3" src="https://user-images.githubusercontent.com/82032462/178154780-afa555c5-7bef-43c2-8a7d-2b19aa5d9f47.PNG">
+<img width="358" alt="4" src="https://user-images.githubusercontent.com/82032462/178154822-8b0017ec-8aad-4780-b28d-794d117cf2a3.PNG">
 
